@@ -139,7 +139,7 @@ For more details, please refer to the [nnUNet documentation](https://github.com/
 
 ## Training
 
-run nnUNet 5-fold cross validation 3d_fullres training with the script file `run.sh`:
+run nnUNet 5-fold cross validation 3d_fullres training with the script file `run.sh`, remember to modify the `XXX` to the dataset ID:
 
 ```bash
 bash run.sh
